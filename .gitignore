@@ -1,0 +1,11 @@
+variables.json
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+.terraform/
+*.retry
+my-infra*
+jdauphant.nginx
+*.old
+*.log
